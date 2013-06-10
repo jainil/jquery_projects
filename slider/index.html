@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+	<title>Slider</title>
+	<style type="text/css" media="screen">
+
+		body{
+			width: 600px;
+			margin: 100px auto 0px auto;
+		}
+		*{
+			margin: 0px;
+			padding: 0px;
+		}
+	</style>
+	<link rel="stylesheet" href="slider.css">
+</head>
+<body>
+
+	<div class="slider">
+		<ul>
+			<li><img src="img1.gif" alt="image"></li>
+			<li><img src="img2.gif" alt="image"></li>
+			<li><img src="img3.gif" alt="image"></li>
+			<li><img src="img4.gif" alt="image"></li>
+			<li><img src="img1.gif" alt="image"></li>
+			<li><img src="img2.gif" alt="image"></li>
+			<li><img src="img3.gif" alt="image"></li>
+			<li><img src="img4.gif" alt="image"></li>
+		</ul>
+	</div>
+
+	<div id="slider-nav">
+		<button data-dir="prev">Previous</button>
+		<button data-dir="next">Next</button>
+	</div>
+
+<script src="jquery.js" type="text/javascript" charset="utf-8"></script>
+<script src="slider.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" charset="utf-8">
+(function () {
+var slider = new Slider($('div.slider ul'), $('div#slider-nav'));
+slider.controller.find('button').on('click', function () {
+	slider.setCurrent($(this).data('dir'));
+	slider.transition();
+});
+}) ();
+</script>
+</body>
+</html>

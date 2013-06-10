@@ -1,0 +1,18 @@
+.slider {
+	width: inherit;
+	overflow: scroll;
+}
+
+.slider ul {
+	width: 60000px;
+	list-style: none;
+}
+
+.slider li {
+	float: left;
+}
+ 	
+#slider-nav {
+	display: none;
+	cursor: pointer;
+}

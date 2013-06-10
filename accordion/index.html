@@ -1,0 +1,96 @@
+<!-- <!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>FAQ</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+	
+
+<dl>
+	<dt>What is your name?</dt>
+	<dd>Jainil</dd>
+	<dt>What is your name?</dt>
+	<dd>Jainil</dd>
+	<dt>What is your name?</dt>
+	<dd>Jainil</dd>
+	<dt>What is your name?</dt>
+	<dd>Jainil</dd>
+</dl>
+
+<script src="jquery.js" type="text/javascript" charset="utf-8"></script>
+
+<script type="text/javascript" charset="utf-8">
+
+$( function	() {
+	$('dd').filter(':nth-child(n+4)').hide();
+	$('dl').on('mouseenter', 'dt', function(){
+		$(this) .next()
+			    .slideDown(200)
+			   		.siblings('dd')
+			   		.slideUp(200);
+	});
+});
+
+</script>
+</body>
+</html> -->
+
+<html>
+<head>
+	<title>Animate Test</title>
+	<style type="text/css" media="screen">
+
+		.toAnimate{
+			width: 500px;
+		}
+		h1 {
+			background-color: #BBB;
+		}
+		div p{
+			
+		}
+	</style>
+</head>
+<body>
+
+	<div class="toAnimate">
+
+		<h1>Deep Thoughts</h1>
+
+		<p>
+		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+		</p>
+
+	</div>
+
+<script src="jquery.js" type="text/javascript" charset="utf-8"></script>
+
+<script type="text/javascript" charset="utf-8">
+
+$.fn.fadeSlideToggle = function() { 
+		return $(this)
+			.animate({height: 'toggle', opacity: 'toggle'},
+				{duration: '2000'});
+	}
+
+$(function () {
+	var box = $('div.toAnimate p');
+	$('div.toAnimate').on('click', function (){
+		box.fadeSlideToggle();
+	});
+});
+
+
+
+</script>
+
+</body>
+</html>

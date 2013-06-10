@@ -1,0 +1,680 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"he",
+				"height"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"doc",
+				"doctype	DOCTYPE HTML"
+			],
+			[
+				"scr",
+				"SCRIPT"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"li",
+				"link	link - stylesheet"
+			],
+			[
+				"lin",
+				"link	link - stylesheet"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"User",
+				"UserService"
+			],
+			[
+				"lo",
+				"logging"
+			],
+			[
+				"app",
+				"appengine"
+			],
+			[
+				"in",
+				"info"
+			],
+			[
+				"de",
+				"delete_item"
+			],
+			[
+				"se",
+				"session"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"ses",
+				"session"
+			],
+			[
+				"i",
+				"input	input - submit"
+			],
+			[
+				"input",
+				"input	input - checkbox"
+			],
+			[
+				"do",
+				"doRender"
+			],
+			[
+				"__",
+				"__	__magic__"
+			],
+			[
+				"st",
+				"static"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bo",
+				"body	<body>"
+			],
+			[
+				"foi",
+				"font-weight"
+			],
+			[
+				"qu",
+				"querySelector"
+			],
+			[
+				"cl",
+				"classname"
+			],
+			[
+				"ge",
+				"get	Get Elements"
+			],
+			[
+				"ico",
+				"iconscontainer"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"fra",
+				"frameLoader"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"load",
+				"loadover"
+			],
+			[
+				"f",
+				"fun	Function"
+			],
+			[
+				"but",
+				"buttonId"
+			],
+			[
+				"Icon",
+				"iconId"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"are",
+				"area1tip"
+			],
+			[
+				"us",
+				"us_wage"
+			],
+			[
+				"fram",
+				"frame"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"b",
+				"button	Tag"
+			],
+			[
+				"chi",
+				"childNodes"
+			],
+			[
+				"g",
+				"get	Get Elements"
+			],
+			[
+				"s",
+				"style	Tag"
+			],
+			[
+				"borde",
+				"border-width"
+			],
+			[
+				"bu",
+				"buttonClickHandler"
+			],
+			[
+				"inpu",
+				"INPUT	Tag"
+			],
+			[
+				"both",
+				"bothKoneK1"
+			],
+			[
+				"bothK",
+				"bothK1"
+			],
+			[
+				"on",
+				"oneK1"
+			],
+			[
+				"o",
+				"oneK"
+			],
+			[
+				"fi",
+				"firstK"
+			],
+			[
+				"pac",
+				"packOfEight"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/MingwC.sublime-build",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"snipp an",
+				"Snippet: Anoynmous Function"
+			],
+			[
+				"sni",
+				"Snippet: Function"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"IN",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ja",
+				"Set Syntax: Java"
+			],
+			[
+				"synta jin",
+				"Set Syntax: Jinja Templates"
+			],
+			[
+				"late",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 251.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/shadowIvy/Dev/jQuery/30days/accordion/style.css",
+		"/C/Users/shadowIvy/Dev/jQuery/30days/accordion/index.html",
+		"/C/Users/shadowIvy/Dev/jQuery/30days/accordion/jquery.js",
+		"/C/Users/shadowIvy/Dev/c/cpuzzles.c",
+		"/C/Users/shadowIvy/AppData/Roaming/Sublime Text 2/Packages/View In Browser/View In Browser.sublime-settings",
+		"/C/Users/shadowIvy/AppData/Roaming/Sublime Text 2/Packages/View In Browser/ViewInBrowserCommand.py",
+		"/C/Users/shadowIvy/AppData/Roaming/Sublime Text 2/Packages/View In Browser/ViewInBrowser.sublime-commands",
+		"/C/Users/shadowIvy/Downloads/h5bp-html5-boilerplate-v4.2.0-0-g0adda79/h5bp-html5-boilerplate-defe483/index.html",
+		"/C/Users/shadowIvy/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/shadowIvy/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/shadowIvy/Dev/jQuery/TutsPlus - 30 Days to Learn jQuery/Info.txt",
+		"/C/Users/shadowIvy/Dev/appengine-workspace/appengine-php-sdk-1.8.0/hello/app.yaml",
+		"/C/Users/shadowIvy/Dev/appengine-workspace/appengine-php-sdk-1.8.0/hello/stylesheets/main.css",
+		"/C/Users/shadowIvy/Dev/appengine-workspace/appengine-php-sdk-1.8.0/hello/hello.php",
+		"/C/Users/shadowIvy/Dev/appengine-workspace/php/hello.php",
+		"/C/Users/shadowIvy/Dev/appengine-workspace/php/hello.yaml",
+		"/C/Users/shadowIvy/Dev/android-workspace/php/hello.yaml",
+		"/C/Users/shadowIvy/Dev/android-workspace/php/hello.php",
+		"/C/Users/shadowIvy/Downloads/util/sessions.py",
+		"/C/Users/shadowIvy/Downloads/gaeutilities-1.3/main.py",
+		"/C/Users/shadowIvy/Dev/appengine-workspace/goo-goo-goo/util/sessions.py",
+		"/C/Users/shadowIvy/Downloads/gaeutilities-1.3/appengine_utilities/sessions.py",
+		"/C/Users/shadowIvy/Dev/appengine-workspace/goo-goo-goo/util/appengine_utilities/rotmodel.py",
+		"/C/Users/shadowIvy/Downloads/appengine/sample-appengine-apps/ae-09-session/util/README.txt",
+		"/C/Users/shadowIvy/Downloads/sample-appengine-apps/ae-05-templates/static/glike.css",
+		"/C/Users/shadowIvy/Downloads/appengine/sample-appengine-apps/ae-10-datastore/index.py",
+		"/C/Users/shadowIvy/Downloads/appengine/sample-appengine-apps/ae-10-datastore/templates/loginscreen.htm",
+		"/C/Users/shadowIvy/Dev/appengine-workspace/engineapp/static/glike.css",
+		"/C/Users/shadowIvy/Downloads/appengine/sample-appengine-apps/ae-09-session/util/sessions.py",
+		"/C/Users/shadowIvy/Dev/appengine-workspace/engineapp/templates/login.html",
+		"/C/Users/shadowIvy/Dev/appengine-workspace/engineapp/templates/_base.html",
+		"/C/Users/shadowIvy/Dev/appengine-workspace/engineapp/templates/interests.html",
+		"/C/Users/shadowIvy/Dev/appengine-workspace/engineapp/templates/index.html",
+		"/C/Users/shadowIvy/Dev/appengine-workspace/engineapp/templates/about.html",
+		"/C/Users/shadowIvy/Dev/appengine-workspace/engineapp/main.py",
+		"/C/Users/shadowIvy/Dev/appengine-workspace/engineapp/app.yaml",
+		"/C/Users/shadowIvy/Downloads/sample-appengine-apps/ae-05-templates/templates/index.htm",
+		"/C/Users/shadowIvy/Downloads/appengine/sample-appengine-apps/ae-09-session/util/__init__.py",
+		"/C/Users/shadowIvy/Dev/appengine-workspace/engineapp/New folder/main.py",
+		"/C/Users/shadowIvy/Dev/appengine-workspace/engineapp/New folder/app.yaml",
+		"/C/Users/shadowIvy/Downloads/Swype.1.5.0.15186/Read Me.txt",
+		"/C/Users/shadowIvy/Dev/nag/naghome/index.html",
+		"/C/Users/shadowIvy/Downloads/P90X.Xtreme.Workout.Series.COMPLETE PACK.DVDrip.Xvid-SCP/P90X.nfo",
+		"/C/Users/shadowIvy/Dev/appengine-workspace/engineapp/index.yaml",
+		"/C/Users/shadowIvy/Downloads/Windows 8 Extras/Windows 8 Fonts/README.txt",
+		"/C/Users/shadowIvy/Downloads/README.txt",
+		"/C/Users/shadowIvy/Downloads/Windows 8 Extras/Start Menu Button/README.txt",
+		"/C/Users/shadowIvy/Videos/Ip.Man.The.Final.Fight.2013.1080p.HDTV.X264.AC3-SmY/www.RARBG.com.txt",
+		"/J/New folder/musings.txt",
+		"/C/Users/shadowIvy/AppData/Local/Temp/Temp1_win32diskimager-v0.7-binary.zip/README.txt",
+		"/C/Games/installers/Kingdoms of Amalur - Reckoning/Kingdoms.of.Amalur.Reckoning.Legend.of.Dead.Kel.DLC-SKIDROW/Read Me.txt",
+		"/C/Users/shadowIvy/Documents/musings.txt",
+		"/J/documents/comics/redraw-test/questions.txt",
+		"/C/Users/shadowIvy/Dev/NetBeansProjects/Double_Linked_List/main.cpp",
+		"/C/Users/shadowIvy/Dev/NetBeansProjects/BinarySearchTree/main.cpp",
+		"/C/Users/shadowIvy/Dev/NetBeansProjects/Huffman.cpp",
+		"/C/Users/shadowIvy/Dev/csn/csn-tools-jainil/clientregister.py",
+		"/C/Users/shadowIvy/Dev/csn/csn-tools-jainil/gg.py",
+		"/C/Users/shadowIvy/Dev/bhujaaltest/devore/pickstreamthreaded.txt",
+		"/C/Users/shadowIvy/Downloads/LicensePlateRecognition_DeeptiChopra/OCR_LicensePlate.m",
+		"/C/Users/shadowIvy/Dev/csn/csn-tools-jainil/TestSuitePB.py",
+		"/C/Users/shadowIvy/Dev/csn/csn-tools-jainil/csn_messages_pb2.py",
+		"/C/Users/shadowIvy/Dev/csn/csn-tools-jainil/google/protobuf/testdata/golden_message",
+		"/C/Users/shadowIvy/Dev/bhujaaltest/devore/TestSuitePB.py",
+		"/C/Users/shadowIvy/Dev/bhujaaltest/devore/extract.py",
+		"/C/Users/shadowIvy/Dev/csn/csn-tools-jainil/data.txt",
+		"/C/Games/installers/Kingdoms of Amalur - Reckoning/Kingdoms.of.Amalur.Reckoning.Teeth.of.Naros.DLC-SKIDROW[rbg]/RARBG.com.txt",
+		"/C/Games/installers/Kingdoms of Amalur - Reckoning/Kingdoms.of.Amalur.Reckoning.v1.0.0.2.Update-SKIDROW/Read Me.txt",
+		"/C/Games/installers/Kingdoms of Amalur - Reckoning/Kingdoms.of.Amalur.Reckoning.v1.0.0.2.Update-SKIDROW/changelog.txt",
+		"/C/Users/shadowIvy/AppData/Local/Temp/Temp1_gfsp110.zip/readme.txt",
+		"/C/Backup/documents/nag/New folder/WhatsApp Chat with Pritesh Sankhe.txt",
+		"/C/Users/shadowIvy/Downloads/Aladdin (1992)/Aladdin.1992.720p.BRrip.x264.GAZ.YIFY.eng.sub",
+		"/C/Users/shadowIvy/Downloads/LicensePlateRecognition_DeeptiChopra/templates.mat",
+		"/C/Users/shadowIvy/Downloads/LicensePlateRecognition_DeeptiChopra/TextFileWithLicensePlateNumber.txt",
+		"/C/Users/shadowIvy/Downloads/LicensePlateRecognition_DeeptiChopra/ReadMe.txt",
+		"/C/Users/shadowIvy/Documents/MATLAB/DIP/barcode1.m",
+		"/C/Users/shadowIvy/Downloads/TEC-IT Barcode Studio Enterprise v14.0.1.17931 Including Crack [h33t][iahq76]/ReadMe!.txt",
+		"/C/Users/shadowIvy/Documents/MATLAB/barcode/barcode.m",
+		"/C/Users/shadowIvy/Documents/barcode.m",
+		"/C/Documents/tcad_data/cad/nmos_sw1/sw1_new_123.cmd",
+		"/C/Documents/tcad/manuals/TCAD Tutorial/satya_nmos.cmd",
+		"/C/Documents/tcad_data/cad/nmos_sw1/sw1_new.cmd",
+		"/C/Documents/tcad_data/inverter/inverter.cmd",
+		"/C/Documents/tcad_data/pmos/130nm_pmos.cmd",
+		"/C/Documents/tcad_data/cad/nmos/nmos_sd.cmd",
+		"/C/Documents/tcad_data/cad/nmos/nmos_130nm.cmd",
+		"/C/Users/shadowIvy/Downloads/uart.c",
+		"/C/Backup/documents/semester 8/VLSI/UART project/UART_Transmitter_files/transmitter.v",
+		"/C/Documents/tcad_data/inverter/New Text Document.txt",
+		"/C/Users/shadowIvy/AppData/Roaming/Sublime Text 2/Packages/User/MingwC.sublime-build",
+		"/C/Users/shadowIvy/Documents/Rainmeter/Skins/VAtch/VAtch Black/VAtch Black.ini",
+		"/C/Users/shadowIvy/AppData/Local/Temp/Temp1_Digital_Circles_by_Gerguter.zip/Digital Circles/Digital Circles.ini",
+		"/C/Users/shadowIvy/Documents/Rainmeter/Skins/Digital Circles/Digital Circles.ini",
+		"/C/Backup/documents/jainil parekh",
+		"/C/Backup/documents/tp.txt",
+		"/C/Backup/documents/tmp",
+		"/C/Users/shadowIvy/Dev/nag/naghome/js/menu.js",
+		"/C/Users/shadowIvy/Dev/nag/nag.co/index.html",
+		"/C/Backup/caltech/devoreanimation/mydevour2_1.html",
+		"/C/Users/shadowIvy/Dev/nag/mag/I.E. Biz Magazine - Download The Inland Empire's Business Magazine_files/screen.css",
+		"/C/Users/shadowIvy/Dev/nag/naghome/test.html",
+		"/C/Users/shadowIvy/Dev/nag/naghome/js/jquery.tooltipster.min.js",
+		"/C/Users/shadowIvy/Documents/Rainmeter/Skins/pragmatic3.0/notes/notes.txt",
+		"/C/Users/shadowIvy/Dev/nag/New folder/jquery.tooltip/jquery-tooltip/todo",
+		"/C/Users/shadowIvy/Dev/nag/New folder/jquery.tooltip/jquery-tooltip/changelog.txt",
+		"/C/Users/shadowIvy/Documents/casestudy2.py",
+		"/C/Users/shadowIvy/Dev/nag/naghome/js/getElementsByClassName-1.0.1.js",
+		"/C/Users/shadowIvy/Downloads/getElementsByClassName-1.0.1.js",
+		"/C/Games/installers/DmC.Devil.may.Cry-RELOADED/reloaded.nfo",
+		"/C/Users/shadowIvy/Dev/nag/nag.co/aspnet_client/system_web/1_1_4322/SmartNav.js",
+		"/C/Users/shadowIvy/Dev/nag/nag.co/aspnet_client/system_web/1_1_4322/SmartNav.htm",
+		"/C/Users/shadowIvy/Dev/nag/mag/I.E. Biz Magazine - Download The Inland Empire's Business Magazine_files/custom.css",
+		"/C/Users/shadowIvy/Dev/nag/mag/I.E. Biz Magazine - Download The Inland Empire's Business Magazine_files/media-queries.css",
+		"/C/Users/shadowIvy/Dev/nag/mag/pdf.js-master/README.md",
+		"/C/Users/shadowIvy/Dev/nag/mag/pdf.js-master/make.js",
+		"/C/Users/shadowIvy/Dev/nag/mag/I.E. Biz Magazine - Download The Inland Empire's Business Magazine.htm",
+		"/C/Users/shadowIvy/Dev/zjunk/sublime/Sublime Text 2/Read Me.txt",
+		"/C/Users/shadowIvy/Documents/hazards/monty_hall.py",
+		"/C/Users/shadowIvy/Dev/nag/mag/I.E. Biz Magazine - Download The Inland Empire's Business Magazine_files/sunburst.css",
+		"/C/Users/shadowIvy/Dev/nag/mag/I.E. Biz Magazine - Download The Inland Empire's Business Magazine_files/jquery.fancybox-1.3.4.css",
+		"/C/Users/shadowIvy/Dev/nag/mag/iebiz_original.html",
+		"/C/Program Files/Canon/CanonMF/MF4400/Readme_SG.txt",
+		"/C/Program Files (x86)/Google/google_appengine/appcfg.py",
+		"/C/Users/shadowIvy/Dev/csn/csn-tools/csn-tools/csn-tools/src/logfile_to_database.py",
+		"/C/Users/shadowIvy/Documents/logs_parser.py",
+		"/C/Users/shadowIvy/Dev/csn/csn-tools/csn-tools/csn-tools/src/log_downloader.py",
+		"/C/Backup/caltech/devoreanimation/mydevour - Copy (2).htm",
+		"/C/Users/shadowIvy/Documents/hazards/SampleData_Epidemics/data_iGotBit/data.csv"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"animate",
+			"'});",
+			"css",
+			"anima",
+			"left",
+			"barcode",
+			"iSca",
+			", iScanline",
+			"numScanline",
+			", iScanline",
+			"iFeature",
+			"iFeature,",
+			"len",
+			"barcode_image",
+			"upsampl",
+			"numBin",
+			"ramp",
+			"banner",
+			"menu",
+			"menuc",
+			"c",
+			"menu",
+			"%;\n",
+			"icons",
+			"style",
+			"png",
+			"120px",
+			"840px",
+			"png",
+			") ",
+			"\"\n",
+			"style",
+			"framecontent",
+			" \">",
+			"6",
+			"3",
+			"hidden",
+			"black",
+			"255",
+			"leadership",
+			"inline",
+			"\";\n",
+			"xyz",
+			"message",
+			"a>",
+			"<a",
+			"a",
+			"</p>",
+			"<p>",
+			"class",
+			"button1",
+			";\n",
+			"min",
+			"max",
+			"min",
+			"max",
+			"Max",
+			"splash",
+			"fancy",
+			"a1_se_lat",
+			"img",
+			"paragraph",
+			"{}\n",
+			"{paragraph}",
+			"bo",
+			"t",
+			"e",
+			"`"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 49.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 208.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true
+}
